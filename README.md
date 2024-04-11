@@ -6,3 +6,4 @@ In this project, we present the design and implementation of a Smart Environment
 Contributors
 1. Kishor S Naik
 2. Manaswi Survarna
+3. Manish Shetty
